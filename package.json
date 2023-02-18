@@ -1,0 +1,28 @@
+{
+  "name": "animal-crossing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "18.14.0",
+    "@types/react": "17.0.39",
+    "@types/react-dom": "18.0.11",
+    "bootstrap": "^5.2.3",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "17.0.2",
+    "typescript": "4.9.5"
+  },
+  "resolutions": {
+    "@types/react": "17.0.2",
+    "@types/react-dom": "17.0.2"
+  }
+}
