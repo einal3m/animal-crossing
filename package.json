@@ -1,6 +1,7 @@
 {
   "name": "animal-crossing",
   "version": "0.1.0",
+  "homepage": "https://einal3m.github.io/animal-crossing/",
   "private": true,
   "scripts": {
     "dev": "next dev",

@@ -84,7 +84,7 @@ export default function IndexPage() {
                 <td>{statue.name}</td>
                 <td>
                   <Image
-                    src={`/images/acnh/statues/statue-${statue.name}-real.png`}
+                    src={`https://einal3m.github.io/animal-crossing/images/acnh/statues/statue-${statue.name}-real.png`}
                     alt={statue.name}
                     width="64"
                     height="64"
@@ -93,7 +93,7 @@ export default function IndexPage() {
                 <td>
                   {statue.hasFake && (
                     <Image
-                      src={`/images/acnh/statues/statue-${statue.name}-fake.png`}
+                      src={`https://einal3m.github.io/animal-crossing/images/acnh/statues/statue-${statue.name}-fake.png`}
                       alt={statue.name}
                       width="64"
                       height="64"
